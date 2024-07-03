@@ -1,7 +1,8 @@
 ### Tài khoản ngân hàng
 
-1. 023999888 (MBBank)
+**023.999.888** (MBBank)
 
-2. DUOC (BIDV)
-
-3. DUOC2K (Techcombank)
+<script>
+    const username = document.querySelector("body > div > h1 > a");
+    username.innerHTML="Master Được"
+</script>
