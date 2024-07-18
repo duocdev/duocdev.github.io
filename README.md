@@ -8,4 +8,5 @@
 
 ### Projects
 
-<iframe src="https://duocdev-caro3x3.tiiny.site/" width="500" height="500" allowfullscreen></iframe>
+**Caro 3x3 có khả năng chơi offline** : [Demo](https://duocdev-caro3x3.tiiny.site)
+
