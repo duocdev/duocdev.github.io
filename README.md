@@ -1,4 +1,4 @@
-**023.999.888** (MBBank)
+**MBBank:023.999.888**
 
 **[FB: Master Được](https://www.facebook.com/master.duoc)**
 
