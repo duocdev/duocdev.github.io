@@ -1,10 +1,8 @@
-### Info
+### Liên hệ
 
-**MBBank: 023.999.888**
+**FB: [Master Được](https://www.facebook.com/master.duoc)**
 
-**[FB: Master Được](https://www.facebook.com/master.duoc)**
-
-**[X: Master Được](https://x.com/MasterDuoc)**
+**X (twitter): [Master Được](https://x.com/MasterDuoc)**
 
 ### Projects
 
